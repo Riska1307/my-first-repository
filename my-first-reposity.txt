@@ -1,2 +1,3 @@
 tugas self learning pertama technical : membuat 1 form dan 1 profile
 tugas self learning kedua technical : meresume video tentang Git dan Github episode 1 sampai episode 4
+tugas self learning ketiga technical : meresume video tentang git episode 5 dan episode 6
